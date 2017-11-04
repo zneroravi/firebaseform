@@ -1,11 +1,11 @@
 // Initialize Firebase
   var config = {
-    apiKey: "******",
+    apiKey: "AIzaSyDplXMarvJnIAIDzUrr8xWo6SqzsLNUEYw",
     authDomain: "dynobolt-form.firebaseapp.com",
     databaseURL: "https://dynobolt-form.firebaseio.com",
     projectId: "dynobolt-form",
-    storageBucket: "",
-    messagingSenderId: "******"
+    storageBucket: "dynobolt-form.appspot.com",
+    messagingSenderId: "726506265406"
   };
   firebase.initializeApp(config);
 
